@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="domain_title">Panel adresi</string>
+    <string name="domain_help">Platformunuzun adresi. Ağınız kendi alan adını kullanıyorsa buraya yazın.</string>
+    <string name="continue_btn">Devam</string>
+    <string name="domain_invalid">Geçerli bir adres girin, ör. primetrack.pro</string>
+    <string name="error_title">Bağlantı yok</string>
+    <string name="error_text">İnternet bağlantınızı kontrol edip tekrar deneyin.</string>
+    <string name="retry">Tekrar dene</string>
+    <string name="exit_title">PrimeTrack</string>
+    <string name="exit">Çıkış</string>
+    <string name="change_domain">Panel adresini değiştir</string>
+    <string name="cancel">İptal</string>
+    <string name="file_saved">Dosya İndirilenler klasörüne kaydedildi: %1$s</string>
+    <string name="file_failed">Dosya kaydedilemedi</string>
+    <string name="downloading">İndiriliyor…</string>
+</resources>

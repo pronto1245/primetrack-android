@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="domain_title">Адреса кабінету</string>
+    <string name="domain_help">Адреса вашої платформи. Якщо у вашої мережі свій домен, вкажіть його.</string>
+    <string name="continue_btn">Продовжити</string>
+    <string name="domain_invalid">Введіть коректну адресу, наприклад primetrack.pro</string>
+    <string name="error_title">Немає підключення</string>
+    <string name="error_text">Перевірте інтернет і спробуйте ще раз.</string>
+    <string name="retry">Повторити</string>
+    <string name="exit_title">PrimeTrack</string>
+    <string name="exit">Вийти</string>
+    <string name="change_domain">Змінити адресу кабінету</string>
+    <string name="cancel">Скасувати</string>
+    <string name="file_saved">Файл збережено в «Завантаження»: %1$s</string>
+    <string name="file_failed">Не вдалося зберегти файл</string>
+    <string name="downloading">Завантаження…</string>
+</resources>

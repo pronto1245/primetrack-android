@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="domain_title">Endereço do painel</string>
+    <string name="domain_help">O endereço da sua plataforma. Se a sua rede usa um domínio próprio, digite-o aqui.</string>
+    <string name="continue_btn">Continuar</string>
+    <string name="domain_invalid">Digite um endereço válido, ex. primetrack.pro</string>
+    <string name="error_title">Sem conexão</string>
+    <string name="error_text">Verifique sua conexão com a internet e tente novamente.</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="exit_title">PrimeTrack</string>
+    <string name="exit">Sair</string>
+    <string name="change_domain">Alterar endereço do painel</string>
+    <string name="cancel">Cancelar</string>
+    <string name="file_saved">Arquivo salvo em Downloads: %1$s</string>
+    <string name="file_failed">Não foi possível salvar o arquivo</string>
+    <string name="downloading">Baixando…</string>
+</resources>

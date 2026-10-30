@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeTrack</string>
+    <string name="domain_title">Cabinet address</string>
+    <string name="domain_help">Your platform address. If your network uses its own domain, enter it here.</string>
+    <string name="continue_btn">Continue</string>
+    <string name="domain_invalid">Enter a valid address, e.g. primetrack.pro</string>
+    <string name="error_title">No connection</string>
+    <string name="error_text">Check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="exit_title">PrimeTrack</string>
+    <string name="exit">Exit</string>
+    <string name="change_domain">Change cabinet address</string>
+    <string name="cancel">Cancel</string>
+    <string name="file_saved">File saved to Downloads: %1$s</string>
+    <string name="file_failed">Could not save the file</string>
+    <string name="downloading">Downloading…</string>
+</resources>

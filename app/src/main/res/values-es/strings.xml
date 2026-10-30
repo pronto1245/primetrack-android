@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="domain_title">Dirección del panel</string>
+    <string name="domain_help">La dirección de tu plataforma. Si tu red usa su propio dominio, escríbelo aquí.</string>
+    <string name="continue_btn">Continuar</string>
+    <string name="domain_invalid">Introduce una dirección válida, p. ej. primetrack.pro</string>
+    <string name="error_title">Sin conexión</string>
+    <string name="error_text">Comprueba tu conexión a internet e inténtalo de nuevo.</string>
+    <string name="retry">Reintentar</string>
+    <string name="exit_title">PrimeTrack</string>
+    <string name="exit">Salir</string>
+    <string name="change_domain">Cambiar dirección del panel</string>
+    <string name="cancel">Cancelar</string>
+    <string name="file_saved">Archivo guardado en Descargas: %1$s</string>
+    <string name="file_failed">No se pudo guardar el archivo</string>
+    <string name="downloading">Descargando…</string>
+</resources>
